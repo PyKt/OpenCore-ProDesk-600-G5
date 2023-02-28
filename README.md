@@ -25,6 +25,7 @@ LAN | Intel I219-LM
 #### **SMBIOS**
 [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
+[My Telegram](t.me/AlbertSario)
 
 ## ***Thanks to:***
 [taskrov](https://www.tonymacx86.com/members/taskrov.243304/)
