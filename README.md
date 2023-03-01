@@ -17,7 +17,7 @@ LAN | Intel I219-LM
 
 
 
-#### **OpenCore Ver. 0.8.8**
+#### **OpenCore Ver. 0.8.9**
 [ OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
  
 #### **Edit config.plist**
